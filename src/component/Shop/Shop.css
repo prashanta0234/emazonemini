@@ -1,0 +1,17 @@
+.shop{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+}
+.cartpage {
+    text-align: center;
+    border-left: 1px solid lightgray;
+}
+.inputFeilld{
+    background-color: rgb(19, 18, 18);
+    padding: 15px;
+    text-align: center;
+}
+.inputFeilld input{
+    padding: 8px;
+    width: 70%;
+}
